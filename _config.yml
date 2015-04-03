@@ -12,3 +12,9 @@ github_username:  jtruty
 # Build settings
 markdown: kramdown
 highlighter: pygments
+
+# Comments settings
+comments :
+  provider : disqus
+  disqus :
+    short_name : thirstyengineer
