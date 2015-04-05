@@ -3,7 +3,7 @@ layout: post
 title: "Track High Score with Phaser"
 date: 2014-02-27 17:20:50 -0600
 comments: true
-categories: [tags]
+categories: [programming]
 tags: [html5, javascript, phaser]
 ---
 The Phaser framework has many resources behind it, such as the examples on the Phaser site, blogs with detailed howto guides and many open source games. I found it trivial to make a quick proof of concept for a simple idea, with a minimal knowledge of the framework before I started. However, as I continued to develop my first game, adding certain elements became more difficult and less documented.
