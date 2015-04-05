@@ -3,7 +3,8 @@ layout: post
 title: "Elasticsearch HTTP Queries with Jest"
 date: 2015-04-03 12:35:00 -0600
 comments: true
-categories: [elasticsearch, solr, java, jest, http]
+categories: [programming]
+tags: [elasticsearch, solr, java, jest, http]
 ---
 Elasticsearch has a robust and expansive java api with one large issue - you cannot use the Elasticsearch HTTP Rest protocol to talk to your cluster. Thankfully, HTTP elasticsearch clients exist to work around this issue. [Jest](https://github.com/searchbox-io/Jest) acts as an HTTP wrapper on top of the native elasticsearch api. This is fantastic, because it makes using POJOs and marshalling fairly simple when you cannot use the native api. There are a plethora of elasticsearch features, and by stepping through the official docs and perusing the Jest examples and unit tests, you can more or less figure out how to accomplish what you need.
 

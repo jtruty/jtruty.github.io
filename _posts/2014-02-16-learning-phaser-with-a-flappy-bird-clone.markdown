@@ -3,7 +3,8 @@ layout: post
 title: "Learning Phaser with a Flappy Bird clone"
 date: 2014-02-16 18:41:55 -0600
 comments: true
-categories: [html5, javascript, phaser]
+categories: [programming]
+tags: [html5, javascript, phaser]
 ---
 I jumped on the Flappy Bird bandwagon late and only for a short time, but just playing the game had a profound effect on me. How could something so simple be so addicting? Why couldn't I put it down?
 
