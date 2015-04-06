@@ -3,7 +3,7 @@ title: Thirsty Engineer
 email: jtruty@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
    A personal blog about my software trials and tribulations that
-   I find interesting enough to share. Also, maybe some beer posts.
+   I find interesting enough to share. Also, beer.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://jtruty.github.io" # the base hostname & protocol for your site
 twitter_username: jtruty
