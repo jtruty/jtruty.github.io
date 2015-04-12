@@ -86,7 +86,11 @@
     }
 }
 
-
+.social {
+    a {
+        color: black;
+    }
+}
 
 /**
  * Site footer
@@ -186,6 +190,7 @@
 .post-link {
     display: block;
     font-size: 24px;
+    color: #228B22;
 }
 
 
